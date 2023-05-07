@@ -1,1 +1,1 @@
-# ChatGPTPrompt
+# ChatGPT Prompt Engineering
